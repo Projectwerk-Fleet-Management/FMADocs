@@ -19,7 +19,7 @@
 
 ### Anton
 - Fuelcard class
-- 
+
 ### Non-deadline non-assigned tasks
 - FuelcardManager
 - DriverManager
