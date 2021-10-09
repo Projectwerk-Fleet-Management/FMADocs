@@ -9,7 +9,7 @@
 ### Bryan
 - Address class
 - LicenseType enum
-- Fuelcard class
+- Driver class
 
 ### Marnick
 
@@ -18,8 +18,8 @@
 - Fuel enum
 
 ### Anton
-- Driver class
-
+- Fuelcard class
+- 
 ### Non-deadline non-assigned tasks
 - FuelcardManager
 - DriverManager
